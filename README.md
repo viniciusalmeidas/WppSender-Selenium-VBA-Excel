@@ -8,7 +8,7 @@
 
 p.s: On Excel - 2nd Column: <b>WhatsApp Phone</b> (format:  (+) followed by the country code, city code, and local phone number) </n>  and 3rd Column: <b>Full Name</b> 
 
-Phone | Name | Mensage
+Phone | Name | Message
 -------|--------|--------  
 5521987422122 | Vinicius Almeida de Souza | Hello Vinícius, call me ishmael.
 5511982736132 | John MacGraph | Hello John, call me ishmael.
