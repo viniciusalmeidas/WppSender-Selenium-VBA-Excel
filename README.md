@@ -8,9 +8,9 @@
 
 p.s: On Excel - 2nd Column: <b>WhatsApp Phone</b> (format:  (+) followed by the country code, city code, and local phone number) </n>  and 3rd Column: <b>Full Name</b> 
 
-Phone | Name
--------|--------
-5521987422122 | Vinicius Almeida de Souza
-5511982736132 | John MacGraph
+Phone | Name | Mensage
+-------|--------|--------  
+5521987422122 | Vinicius Almeida de Souza | Hello Vinícius, call me ishmael.
+5511982736132 | John MacGraph | Hello John, call me ishmael.
 
 ## Unlike the Python automation available on my github in "[https://github.com/viniciusalmeidas/Wpp-Sender]", this excel project can ban the phone number used due to Facebook's mass messaging policies.
