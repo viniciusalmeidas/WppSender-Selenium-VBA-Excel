@@ -13,4 +13,8 @@ Phone | Name | Message
 5521987422122 | Vinicius Almeida de Souza | Hello Vinícius, call me ishmael.
 5511982736132 | John MacGraph | Hello John, call me ishmael.
 
+
+<img width="404" alt="wpp-qr-code" src="https://user-images.githubusercontent.com/39459689/92387947-cff35400-f0ec-11ea-8141-b0cd9d0244ec.png">
+
+
 ## Unlike the Python automation available on my github in "[https://github.com/viniciusalmeidas/Wpp-Sender]", this excel project can ban the phone number used due to Facebook's mass messaging policies.
