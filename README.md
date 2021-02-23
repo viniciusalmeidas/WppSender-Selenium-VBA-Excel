@@ -2,11 +2,11 @@
 
 1. Install Selenium - https://github.com/florentbr/SeleniumBasic/releases</n>
 2. Add Selenium Type Library on Tools >> References in Excel</n>
-3. Update ChromeDriver to match with your Chrome version: http://chromedriver.chromium.org/downloads</n>
-	  3.1. Copy and Paste chromedriver.exe to C:\Users\[*your user*]\AppData\Local\SeleniumBasic </n>
-4. Open thwe file Selenium-TEXTO.xlsm on Excel and put the data and the WhatsApp Phones</n>
+3. Update ChromeDriver to match with your Chrome version: http://chromedriver.chromium.org/downloads </n>
+4. Copy and Paste chromedriver.exe to C:\Users\[*your user*]\AppData\Local\SeleniumBasic </n>
+5. Open thwe file Selenium-TEXTO.xlsm on Excel and put the data and the WhatsApp Phones</n>
 
-p.s: On Excel - 2nd Column: <b>WhatsApp Phone</b> (format:  (+) followed by the country code, city code, and local phone number) </n>  and 3rd Column: <b>Full Name</b> 
+p.s: On Excel - 2nd Column: <b>WhatsApp Phone</b> (format:  (+) followed by the country code, city code, and local phone number)   and 3rd Column: <b>Full Name</b> 
 
 Phone | Name | Message
 -------|--------|--------  
